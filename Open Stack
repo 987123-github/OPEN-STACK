@@ -1,0 +1,8 @@
+WHAT IS OPEN STACK ? 
+OpenStack is a free, open standard cloud computing platform. It is mostly
+deployed as infrastructure-as-a-service in public and private
+clouds where virtual servers and other resources are available to users.
+
+OPEN STACK THROUGH DEVSTACK
+STEP 1- UPDATE AND UPGRADE THE SYSTEM 
+apt update -y && apt upgrade -y
